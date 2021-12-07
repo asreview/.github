@@ -1,50 +1,54 @@
-# Beep Beep, ELAS here
+## Welcome to the ASReview project, glad to see you here! :wave:
+<p align="center">
+<img width="80%" height="80%" src="https://raw.githubusercontent.com/asreview/asreview-artwork/master/LogoASReview/SVG/GitHub_Repo_Card_Transparent.svg">
+</p>
 
-Welcome to the ASReview project, glad to see you here! :wave:
-
-My name is ELAS, your **E**lectronic **L**earning **As**sistant, and overall mascot of ASReview.
-This GitHub organization is my home 🏡, let me show you around!
-
-## This is ASReview
-First stop, the heart of my home is the ASReview repository, the source code of ASReview LAB and the place where I actually get to help you! 
-
-You can dive into the history and see where it all started (but you have to go back a long while 🕵️)! 
-
-### Open Software
+First things first, welcome to the ASReview organization! ASReview is a research project at Utrecht University, which uses state-of-the-art active learning techniques to solve one of the most interesting challenges in screening large amounts of text: there’s not enough time to read everything! ⏲️ ASReview LAB, **free and open source software** for screening large amounts of textual data in a smarter way 🤓, has **over 125k downloads ⬇️** and is being used amongst more than **100 organizations 🏛️**. 
 
 
+### 👐 Open Source
 
-### Feel free to propose changes of any kind!
-Your ideas and input are very much appreciated.
-From contributing to source code to improving readability of the documentation, all suggestions are welcome!
+The best part about ASReview? It is completely free 🐦, installed locally 💻 and open source:
 
-There are multiple ways to contribute:
-- [Reporting bugs](https://github.com/asreview/asreview/blob/master/CONTRIBUTING.md#reporting-bugs) :bug: :ant: 🐞
-- [Suggesting enhancements](https://github.com/asreview/asreview/blob/master/CONTRIBUTING.md#feature-request)
-- [Contribute code](https://github.com/asreview/asreview/blob/master/CONTRIBUTING.md#contribute-code)
-- [Contribute in discussions](https://github.com/asreview/asreview/blob/master/CONTRIBUTING.md#discussions)
+Open source means:
+ - From fixing spelling mistakes to implementing your ideas, anybody can [contribute to the project](https://github.com/asreview/asreview/blob/master/CONTRIBUTING.md)!
+ - You can dive into the history and see where ASReview started (but you have to go back a long while 🕵️).
+ - There is no black-box anymore ⬛, everything is transparent 👓.
 
-### Appendix
-Curious to see what's next on the ASReview agenda?
+Since we are talking about open source and free software anyway ☝️, please consider [giving ASReview a star ⭐](https://github.com/asreview/asreview) on GitHub to increase the visibility of the project 🤩. [Donations](https://asreview.nl/donate/) 💛 also make sure that the software remains freely available to everyone, please help to keep it that way.
 
+### 🗺️ A roadmap to all that is ASReview
+To help you on your way to find the information you are looking for, take a look below:
+  - A-Z of the ASReview project: [The documentation](https://asreview.readthedocs.io/en/latest/index.html) 📕
+  - More general information can be found on [the website](https://asreview.nl/) 🌍, including:
+    -  [The download page](https://asreview.nl/download/)
+    -  [Blogposts](https://asreview.nl/blog/) on a whole range of subjects, from **simulation tutorials** 🤖 to **handy tools** 🔧 and **release updates**!
+    -  [Research output](https://asreview.nl/research/) showing you all the projects on which the research and development team has been working on 💪
+  - In case you may have questions, you can visit our [discussion board](https://github.com/asreview/asreview/discussions) and post your question 📝
+
+It is important to keep up-to-date with the latest release of ASReview LAB. The software is developing at a mind-blowing 🤯 rate, so you really don't want to miss out!
+Want to get notified when a new release is available? [Sign up](asreview.nl/newsletter) for the newsletter 📰!
 
 <details> 
-	<summary>"Who is actually behind ASReview?"</summary>
+	<summary>🖋️ Refer to us!</summary>
 	<br>
 	<ul>
-	<li> ASReview is developed as a research project at Utrecht University under the lead of <a href="https://https://www.rensvandeschoot.com/">prof. dr. Rens van de schoot</a> and lead engineer <a href="https://github.com/J535D165">Jonathan de Bruin</a> </li>
-		<li>Co-coordinators of ASReview are:
-			<ul>
-				<li><a href="https://daob.nl/">Prof. dr. Daniel Oberski</a></li>
-				<li><a href="https://en.larstummers.com/">Prof. dr. Lars Tummers </a></li>
-				<li><a href="https://ayoubbagheri.nl/">Dr. Ayoub Bagheri</a></li>
-        <li><a href="https://nl.linkedin.com/in/brinkhuis">Dr. Matthieu Brinkhuis</a></li>
-			</ul>
-		</li>
-		<li> Many more people are involved in the development of ASReview! Take a look at the <a href="https://github.com/orgs/asreview/people"> people page</a> 😄 </li>
+		If you are using ASReview, please also make sure to refer to the software and/or the project! ✔️ For the project you can cite this publication in 
+		<a href = "https://doi.org/10.1038/s42256-020-00287-7">Nature Machine Intelligence</a> :
+		
+```
+van de Schoot, R., de Bruin, J., Schram, R. et al. 
+An open source machine learning framework for efficient and transparent systematic reviews. 
+Nat Mach Intell 3, 125–133 (2021). https://doi.org/10.1038/s42256-020-00287-7
+```
+
+	
+For citing the software, please refer to the specific release of
+the ASReview software on [Zenodo](https://doi.org/10.5281/zenodo.3345592). The menu on the
+right can be used to find the citation format you need 👍.
 	</ul>
 </details>
 
+---
+<sub> Pssst 🤫!  Did you know ELAS, the mascot of ASReview, is also [Twitter famous](https://twitter.com/asreviewlab)? Follow us on our ASReview adventures 🤖! </sub>
 
-
-🤫 Pssst did you know I am also [Twitter famous](https://twitter.com/asreviewlab)?

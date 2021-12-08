@@ -3,7 +3,15 @@
 <img width="80%" height="80%" src="https://raw.githubusercontent.com/asreview/asreview-artwork/master/LogoASReview/SVG/GitHub_Repo_Card_Transparent.svg">
 </p>
 
-First things first, welcome to the ASReview Universe 🪐. The ASReview Universe consists of many many things, but on the whole, it is a research project at Utrecht University, which uses state-of-the-art active learning techniques to solve one of the most interesting challenges in screening large amounts of text: there’s not enough time to read everything! Part of the universe is also ASReview LAB, **free and open source software** for screening large amounts of textual data in a smarter way 🤓, has **over 125k downloads ⬇️** and is being used amongst more than **100 organizations 🏛️**. 
+<p align="center">
+	 100+ organizations 🏛️ |
+	<a href = "https://github.com/asreview/asreview#installation">
+	<img src="https://pepy.tech/badge/asreview">
+	 </a>
+	| 300+ GitHub stars 🌟
+</p>
+
+First things first, welcome to the ASReview Universe 🪐. The ASReview Universe consists of many many things, but on the whole, it is a research project at Utrecht University, which uses state-of-the-art active learning techniques to solve one of the most interesting challenges in screening large amounts of text: there’s not enough time to read everything! Part of the universe is also ASReview LAB, **free and open source software** for screening large amounts of textual data in a smarter way 🤓. 
 
 
 ### 👐 Open Source

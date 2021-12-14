@@ -1,6 +1,6 @@
 ## Welcome to the ASReview Universe 👋
 <p align="center">
-<img width="80%" height="80%" src="https://raw.githubusercontent.com/asreview/asreview-artwork/master/LogoASReview/SVG/GitHub_Repo_Card_Transparent.svg">
+<img width="60%" height="60%" src="https://raw.githubusercontent.com/asreview/asreview-artwork/master/LogoASReview/SVG/GitHub_Repo_Card_Transparent.svg">
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@ First things first, welcome to the ASReview Universe 🪐. The ASReview Universe
 
 ### 👐 Open Source
 
-The best part about ASReview LAB? It is completely free, installed locally and open source:
+The best part about ASReview LAB? It is completely free, installed locally, and open source:
 
 Open source means:
  - From fixing spelling mistakes to implementing your ideas, anybody can [contribute to the project](https://github.com/asreview/asreview/blob/master/CONTRIBUTING.md)!
@@ -28,17 +28,17 @@ Since we are talking about open source and free software anyway ☝️, please c
 ### 🗺️ A roadmap to all that is ASReview
 To help you on your way to find the information you are looking for, take a look below:
   - A-Z of the ASReview project: [The documentation](https://asreview.readthedocs.io/en/latest/index.html) 📕
-  - More general information can be found on [the website](https://asreview.nl/) 🌍, including:
-    -  [The download page](https://asreview.nl/download/)
+  - More general information can be found on [asreview.ai](https://asreview.nl/) 🌍, including:
+    -  [Install ASReview LAB](https://asreview.nl/download/)
     -  [Blogposts](https://asreview.nl/blog/) on a whole range of subjects, from **simulation tutorials** 🤖 to **handy tools** 🔧 and **release updates**
-    -  [Research output](https://asreview.nl/research/) showing you all the projects on which the research and development team has been working on
-  - In case you may have questions, you can visit our [discussion board](https://github.com/asreview/asreview/discussions) and post your question
+    -  [Research & publications](https://asreview.nl/research/) showing you all the projects on which the research and development team has been working on
+  - In case you may have questions, you can visit the [ASReview discussion board](https://github.com/asreview/asreview/discussions) and post your question
   
 It is important to keep up-to-date with the latest release of ASReview LAB. The software is developing at a mind-blowing 🤯 rate, so you really don't want to miss out!
 Want to get notified when a new release is available? [Sign up](asreview.nl/newsletter) for the newsletter 📰!
 
 <details> 
-	<summary>🖋️ Refer to us!</summary>
+	<summary>🖋️ How to cite ASReview!</summary>
 	<br>
 	<ul>
 		If you are using ASReview, please also make sure to refer to the software and/or the project! ✔️ For the project you can cite this publication in 

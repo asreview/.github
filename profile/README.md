@@ -11,7 +11,7 @@
 	| 300+ GitHub stars 🌟
 </p>
 
-First things first, welcome to the ASReview Universe 🪐. The ASReview Universe consists of many many things, but on the whole, it is a research project at Utrecht University, which uses state-of-the-art active learning techniques to solve one of the most interesting challenges in screening large amounts of text: there’s not enough time to read everything! Part of the universe is also ASReview LAB, **free and open source software** for screening large amounts of textual data in a smarter way 🤓. 
+First things first, welcome to the ASReview Universe 🪐. The ASReview Universe consists of many many things, but on the whole, it is a research project conducted at Utrecht University. It uses state-of-the-art active learning techniques to solve one of the most interesting challenges in screening large amounts of text: there’s not enough time to read everything! Part of the universe is ASReview LAB, **free and open source software** for screening large amounts of textual data in a smarter way 🤓. 
 
 
 ### 👐 Open Source
@@ -23,7 +23,7 @@ Open source means:
  - You can dive into the history and see where ASReview started (but you have to go back a long while 🕵️).
  - There is no black-box anymore ⬛, everything is transparent 👓.
 
-Since we are talking about open source and free software anyway ☝️, please consider [giving ASReview a star ⭐](https://github.com/asreview/asreview) on GitHub to increase the visibility of the project. [Donations](https://asreview.nl/donate/) 💛 also make sure that the software remains freely available to everyone, please help to keep it that way.
+Since we are talking about open source and free software anyway ☝️, please consider [giving ASReview a star ⭐](https://github.com/asreview/asreview) on GitHub. [Donations](https://asreview.nl/donate/) 💛 make sure that the software remains freely available to everyone, please help to keep it that way.
 
 ### 🗺️ A roadmap to all that is ASReview
 To help you on your way to find the information you are looking for, take a look below:

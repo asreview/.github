@@ -3,13 +3,22 @@
 <img width="60%" height="60%" src="https://raw.githubusercontent.com/asreview/asreview-artwork/master/LogoASReview/SVG/GitHub_Repo_Card_Transparent.svg">
 </p>
 
+<br/>
 <p align="center">
-	 100+ organizations 🏛️ |
-	<a href = "https://github.com/asreview/asreview#installation">
-	<img src="https://pepy.tech/badge/asreview">
-	 </a>
-	| 300+ GitHub stars 🌟
-</p>
+Used by thousands of researchers and experts around the world :globe_with_meridians:	
+</p><br/>
+
+<div align="center">
+	
+[![Downloads](https://static.pepy.tech/personalized-badge/asreview?period=total&units=international_system&left_color=black&right_color=yellow&left_text=Downloads)](https://pepy.tech/project/asreview)
+![PyPI - Downloads](https://img.shields.io/pypi/dm/asreview?color=%23FFCC00)
+![Docker Pulls](https://img.shields.io/docker/pulls/asreview/asreview?color=%23FFCC00)
+![GitHub contributors](https://img.shields.io/github/contributors-anon/asreview/asreview?color=%23FFCC00)
+![GitHub Repo stars](https://img.shields.io/github/stars/asreview/asreview?style=social&color=%23FFCC00)
+
+</div><br/>
+
+
 
 First things first, welcome to the ASReview Universe 🪐. The ASReview Universe consists of many many things, but on the whole, it is a research project conducted at Utrecht University. It uses state-of-the-art active learning techniques to solve one of the most interesting challenges in screening large amounts of text: there’s not enough time to read everything! Part of the universe is ASReview LAB, **free and open source software** for screening large amounts of textual data in a smarter way 🤓. 
 

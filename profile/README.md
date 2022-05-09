@@ -11,7 +11,7 @@ Used by thousands of researchers and experts around the world :globe_with_meridi
 <div align="center">
 	
 [![Downloads](https://static.pepy.tech/personalized-badge/asreview?period=total&units=international_system&left_color=black&right_color=yellow&left_text=Downloads)](https://pepy.tech/project/asreview)
-![PyPI - Downloads](https://img.shields.io/pypi/dm/asreview?color=%23FFCC00)
+[![Downloads](https://static.pepy.tech/personalized-badge/asreview?period=month&units=international_system&left_color=black&right_color=yellow&left_text=Downloads%20per%20month)](https://pepy.tech/project/asreview)
 ![Docker Pulls](https://img.shields.io/docker/pulls/asreview/asreview?color=%23FFCC00)
 ![GitHub contributors](https://img.shields.io/github/contributors-anon/asreview/asreview?color=%23FFCC00)
 ![GitHub Repo stars](https://img.shields.io/github/stars/asreview/asreview?style=social&color=%23FFCC00)

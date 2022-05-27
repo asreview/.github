@@ -44,7 +44,7 @@ To help you on your way to find the information you are looking for, take a look
   - In case you may have questions, you can visit the [ASReview discussion board](https://github.com/asreview/asreview/discussions) and post your question
   
 It is important to keep up-to-date with the latest release of ASReview LAB. The software is developing at a mind-blowing 🤯 rate, so you really don't want to miss out!
-Want to get notified when a new release is available? [Sign up](asreview.nl/newsletter) for the newsletter 📰!
+Want to get notified when a new release is available? [Sign up](https://www.asreview.ai/newsletter/subscribe) for the newsletter 📰!
 
 <details> 
 	<summary>🖋️ How to cite ASReview!</summary>

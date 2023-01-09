@@ -37,6 +37,7 @@ Since we are talking about open source and free software anyway ☝️, please c
 ### 🗺️ A roadmap to all that is ASReview
 To help you on your way to find the information you are looking for, take a look below:
   - A-Z of the ASReview project: [The documentation](https://asreview.readthedocs.io/en/latest/index.html) 📕
+  - [Open teaching materials](https://github.com/asreview/asreview-academy)
   - More general information can be found on [asreview.ai](https://asreview.nl/) 🌍, including:
     -  [Install ASReview LAB](https://asreview.nl/download/)
     -  [Blogposts](https://asreview.nl/blog/) on a whole range of subjects, from **simulation tutorials** 🤖 to **handy tools** 🔧 and **release updates**

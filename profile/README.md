@@ -66,7 +66,3 @@ the ASReview software on [Zenodo](https://doi.org/10.5281/zenodo.3345592). The m
 right can be used to find the citation format you need 👍.
 	</ul>
 </details>
-
----
-<sub> Pssst 🤫!  Did you know ELAS, the mascot of ASReview, is also [Twitter famous](https://twitter.com/asreviewlab)? Follow us on our ASReview adventures 🤖! </sub>
-
